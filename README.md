@@ -5,8 +5,6 @@
 ## Hello there 👋
 ### My name is Jung Woo, I'm back-end Generator
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files.
-
 **Skills**<br>
 
 Front-end : 
