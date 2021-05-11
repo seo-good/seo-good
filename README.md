@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpeterhyun1234)](https://hits.seeyoufarm.com) 
 
 ## Hello there 👋
-### My name is jin, I am front-end Generator's creator
+### My name is Jung Woo, I'm back-end Generator
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files.
 
